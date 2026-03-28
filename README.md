@@ -131,12 +131,6 @@ public/
   logo.svg
 ```
 
-## 🎬 Demo Preview
-```
-![Demo](./assets/demo.gif)
-```
----
-
 ## 🧠 Project Vision
 
 > This is not just a website.  
